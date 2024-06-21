@@ -1,11 +1,32 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Enter a string to reverse!");
+// Console.WriteLine("Enter a string to reverse!");
+//
+// var input = Console.ReadLine();
+//
+// Console.WriteLine(input.ReverseString().ToUpper().ReverseString());
 
-var input = Console.ReadLine();
+//test quadratic method
 
-Console.WriteLine(input.ReverseString().ToUpper().ReverseString());
+// Declare variables a, b, c, and x
 
+using System.Diagnostics;
+
+Stopwatch stopwatch = new Stopwatch();
+
+stopwatch.Start();
+
+double a = 15;
+double b = 3;
+double c = 2;
+double x = 4;
+
+// Call the QuadraticFunction method from the StringFunctions class and pass in the variables a, b, c, and x
+Console.WriteLine(StringFunctions.QuadraticFunction(a, b, c, x));
+
+stopwatch.Stop();
+
+Console.WriteLine($"Time taken: {stopwatch.Elapsed}");
 
 public static class StringFunctions
 {
@@ -37,5 +58,10 @@ public static class StringFunctions
         const double pi = 3.14;
         double area = pi * radius * radius;
         return (float)area;
+    }
+    
+    public static double QuadraticFunction(double a, double b, double c, double x)
+    {
+        return a * x * x + b * x + c;
     }
 }

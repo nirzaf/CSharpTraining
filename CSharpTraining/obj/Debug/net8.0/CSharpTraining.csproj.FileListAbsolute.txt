@@ -12,3 +12,4 @@ C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\obj\Debug\net8.0\re
 C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\obj\Debug\net8.0\CSharpTraining.pdb
 C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\obj\Debug\net8.0\CSharpTraining.genruntimeconfig.cache
 C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\obj\Debug\net8.0\ref\CSharpTraining.dll
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\obj\Debug\net8.0\CSharpTraining.sourcelink.json
