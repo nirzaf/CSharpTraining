@@ -1,0 +1,14 @@
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\bin\Debug\net8.0\CSharpTraining.exe
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\bin\Debug\net8.0\CSharpTraining.deps.json
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\bin\Debug\net8.0\CSharpTraining.runtimeconfig.json
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\bin\Debug\net8.0\CSharpTraining.dll
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\bin\Debug\net8.0\CSharpTraining.pdb
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\obj\Debug\net8.0\CSharpTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\obj\Debug\net8.0\CSharpTraining.AssemblyInfoInputs.cache
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\obj\Debug\net8.0\CSharpTraining.AssemblyInfo.cs
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\obj\Debug\net8.0\CSharpTraining.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\obj\Debug\net8.0\CSharpTraining.dll
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\obj\Debug\net8.0\refint\CSharpTraining.dll
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\obj\Debug\net8.0\CSharpTraining.pdb
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\obj\Debug\net8.0\CSharpTraining.genruntimeconfig.cache
+C:\Users\THIS PC\RiderProjects\CSharpTraining\CSharpTraining\obj\Debug\net8.0\ref\CSharpTraining.dll
