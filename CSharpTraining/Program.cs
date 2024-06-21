@@ -37,9 +37,7 @@ public static class StringFunctions
         Array.Reverse(chars);
         return new string(chars);
     }
-
-    // generate a method change a string to uppercase
-
+    
     public static string ToUpper(this string? input)
     {
         return input?.ToUpper() ?? string.Empty;
@@ -51,7 +49,6 @@ public static class StringFunctions
         double circumference = 2 * pi * radius;
         return (float)circumference;
     }
-
 
     public static float GetArea(this float radius)
     {
