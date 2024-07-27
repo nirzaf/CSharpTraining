@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ctdb1E7L3Yaiwpj64zt2UYPd03FPhbrPPb7f3A/migNWn1iMnRn0E0/+zq/WN9MmPIrJivxVV+hReEZ9+kGr4A==",
+  "dgSpecHash": "61kQHgIabmuWlt2wnPPy1Cfv9cRR+Bv6UEJaEwagxDw1yo1ukYTp5itTjFlUl/M+pB1xIb4bfDKJOk37GCHIMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\THIS PC\\RiderProjects\\CSharpTraining\\TestCSharpTraining\\TestCSharpTraining.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\THIS PC\\.nuget\\packages\\bogus\\35.6.0\\bogus.35.6.0.nupkg.sha512",
     "C:\\Users\\THIS PC\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\THIS PC\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
     "C:\\Users\\THIS PC\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",

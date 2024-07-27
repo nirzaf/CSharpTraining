@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oH7PkYASVahvivVVXDbHb9S5GWygH3vgdrJUJDSHJyLPa41zTBILprAIEUJ4eq7D3bQzf5NYJqCVtvs7/NF8TQ==",
+  "dgSpecHash": "5KDJMOaYTbSQL4YH72fpeqHEf9zXEkYAcSSvA4bVVY8eIOQInEf9UjYkGGAYW8LSAySuNCZ/fXRqVg6IufpEIg==",
   "success": true,
   "projectFilePath": "C:\\Users\\THIS PC\\RiderProjects\\CSharpTraining\\CSharpTraining\\CSharpTraining.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\THIS PC\\.nuget\\packages\\bogus\\35.6.0\\bogus.35.6.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,32 +1,20 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Bogus;
+using static System.Console;
 
-// Console.WriteLine("Enter a string to reverse!");
-//
-// var input = Console.ReadLine();
-//
-// Console.WriteLine(input.ReverseString().ToUpper().ReverseString());
+var faker = new Faker();
+var randomStrings = Enumerable.Range(0, 100).Select(_ => faker.Random.Word()).ToList();
 
-//test quadratic method
+if (randomStrings.Exists(str => str.Length > 10))
+{
+     WriteLine("There is a string with more than 10 characters");
+     int count = randomStrings.Count(str => str.Length > 10);
+     WriteLine($"There are {count} strings with more than 10 characters.");
+}
 
-// Declare variables a, b, c, and x
-
-using System.Diagnostics;
-
-Stopwatch stopwatch = new Stopwatch();
-
-stopwatch.Start();
-
-double a = 15;
-double b = 3;
-double c = 2;
-double x = 4;
-
-// Call the QuadraticFunction method from the StringFunctions class and pass in the variables a, b, c, and x
-Console.WriteLine(StringFunctions.QuadraticFunction(a, b, c, x));
-
-stopwatch.Stop();
-
-Console.WriteLine($"Time taken: {stopwatch.Elapsed}");
+// foreach (var str in randomStrings)
+// {
+//     Console.WriteLine(str);
+// }
 
 public static class StringFunctions
 {
