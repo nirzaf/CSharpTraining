@@ -11,10 +11,12 @@ if (randomStrings.Exists(str => str.Length > 10))
      WriteLine($"There are {count} strings with more than 10 characters.");
 }
 
-// foreach (var str in randomStrings)
-// {
-//     Console.WriteLine(str);
-// }
+var additionalStrings = Enumerable.Range(0, 100).Select(_ => faker.Random.Word()).ToList();
+randomStrings.AddRange(additionalStrings);
+
+WriteLine($"The list now contains {randomStrings.Count} strings.");
+
+WriteLine(randomStrings[0].ReverseString().ToUpper());
 
 public static class StringFunctions
 {
@@ -41,7 +43,7 @@ public static class StringFunctions
     public static float GetArea(this float radius)
     {
         const double pi = 3.14;
-        double area = pi * radius * radius;
+        var area = pi * radius * radius;
         return (float)area;
     }
     

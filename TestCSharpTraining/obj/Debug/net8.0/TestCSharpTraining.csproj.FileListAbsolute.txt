@@ -104,3 +104,4 @@ C:\Users\THIS PC\RiderProjects\CSharpTraining\TestCSharpTraining\obj\Debug\net8.
 C:\Users\THIS PC\RiderProjects\CSharpTraining\TestCSharpTraining\obj\Debug\net8.0\TestCSharpTraining.pdb
 C:\Users\THIS PC\RiderProjects\CSharpTraining\TestCSharpTraining\obj\Debug\net8.0\TestCSharpTraining.genruntimeconfig.cache
 C:\Users\THIS PC\RiderProjects\CSharpTraining\TestCSharpTraining\obj\Debug\net8.0\ref\TestCSharpTraining.dll
+C:\Users\THIS PC\RiderProjects\CSharpTraining\TestCSharpTraining\bin\Debug\net8.0\Bogus.dll
